@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMj982BSCv4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Azerty\\source\\repos\\Скандинавский рогалик\\Скандинавский рогалик\\Скандинавский рогалик.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azerty\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.19\\microsoft.dotnet.ilcompiler.8.0.19.nupkg.sha512",
+    "C:\\Users\\Azerty\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.19\\microsoft.net.illink.tasks.8.0.19.nupkg.sha512",
+    "C:\\Users\\Azerty\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.19\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
